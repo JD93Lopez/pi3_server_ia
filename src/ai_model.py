@@ -5,16 +5,17 @@ template = """{question}"""
 
 prompt = ChatPromptTemplate.from_template(template)
 
-model = OllamaLLM(model="deepseek-r1:7b", base_url="http://127.0.0.1:11434/")
+model = OllamaLLM(model="llama3.2:3b", base_url="http://127.0.0.1:11434/")
 
 chain = prompt | model
 
 instructions = """
-Hola DeepSeek, tu trabajo es que eres un especialista en formato JSON
+Hola LLama, tu trabajo es que eres un especialista en formato JSON
 y un genio en todos los temas,
 después de la etiqueta "Información del tema:" encontrarás un título de tema "Título del tema:",
 su explicación "Explicación:" y una cantidad de tarjetas "Número de tarjetas:".
-Tu misión es proporcionar una respuesta JSON de la forma [{"pregunta":,"respuesta":},{"pregunta":,"respuesta":}]
+Tu misión es proporcionar una respuesta JSON con un array llamado cartas 
+con objetos que traen cada uno una pregunta y una respuesta.
 con una pregunta y una respuesta para cada tarjeta, la mayor cantidad de "Número de tarjetas:" que
 cuente sobre el tema.
 Las respuestas deben ser lo más concisas posibles,
@@ -25,7 +26,8 @@ Debes incluir emojis para que las tarjetas se vean más atractivas.
 Es obligatorio que la respuesta sea solo en formato JSON solicitado.
 Además la respuesta debe estar en el mismo idioma que el tema y la explicación.
 Por último es necesario que hagas las tarjetas solo con el contenido del tema
-que el usuario te da en la explicación, no añadas ninguna información extra.
+que el usuario te da en la explicación, no añadas ninguna información extra a menos que no se pueda hacer el número 
+de cartas solicitado con la información proporcionada.
 En tu proceso de pensamiento asegúrate de que si la respuesta está en español no
 mezcles palabras en inglés en las tarjetas.
 ¡Buena suerte! ¡y gracias por tu ayuda!

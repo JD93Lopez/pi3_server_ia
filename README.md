@@ -7,7 +7,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 # Para instalar el modelo de IA:
 
-ollama run deepseek-r1:7b
+ollama run llama3.2:3b
 
 # Para correr proyecto:
 # En la carpeta del repositorio:
