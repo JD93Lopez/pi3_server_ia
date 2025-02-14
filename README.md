@@ -1,1 +1,22 @@
 # pi3_server_ia
+
+# Para instalar Ollama en linux:
+
+sudo ufw allow 11434/tcp
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Para instalar el modelo de IA:
+
+ollama run deepseek-r1:7b
+
+# Para correr proyecto:
+# En la carpeta del repositorio:
+
+python -m venv pi3_server_ia-env
+.\pi3_server_ia-env\Scripts\activate
+pip install -r requirements.txt
+python src/main.py
+
+# Para guardar nuevas dependencias instaladas:
+
+pip install -r requirements.txt
