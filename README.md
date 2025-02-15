@@ -23,4 +23,4 @@ python src/server.py
 
 # Para guardar nuevas dependencias instaladas:
 
-pip install -r requirements.txt
+pip freeze > requirements.txt
