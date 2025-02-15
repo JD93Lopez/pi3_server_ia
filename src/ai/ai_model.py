@@ -38,9 +38,14 @@ mezcles palabras en inglés en las tarjetas.
 # humans to read and write and easy for machines to parse and generate.
 # Number of Cards: 3"""}))
 
-print(chain.invoke({"question": instructions + """Información del tema: 
-Título del tema: Las ballenas
-Explicación: Las ballenas son mamíferos marinos que 
-pertenecen al orden de los cetáceos.
-Número de tarjetas: 2
-"""}))
+# print(chain.invoke({"question": instructions + """Información del tema: 
+# Título del tema: Las ballenas
+# Explicación: Las ballenas son mamíferos marinos que 
+# pertenecen al orden de los cetáceos.
+# Número de tarjetas: 2
+# """}))
+
+def cards( infoOfTopic ):
+    if not infoOfTopic:
+        infoOfTopic = "Responde un array vacio porque el usuario no ha introducido información del tema"
+    return chain.invoke({"question": instructions + infoOfTopic})
