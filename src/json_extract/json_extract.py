@@ -6,7 +6,7 @@ def extract_json(input_string):
     if match:
         return json.loads(match.group(0))
     else:
-        raise ValueError("No valid JSON found between {}")
+        return {}
     
 def extract_json_string(input_string):
     return json.dumps(extract_json(input_string), ensure_ascii=False, indent=4)
