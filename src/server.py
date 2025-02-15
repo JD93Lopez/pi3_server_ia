@@ -1,6 +1,5 @@
 from flask import Flask, jsonify, request
-from ai.ai_model import cards
-from json_extract.json_extract import extract_json, extract_json_string
+from controller import get_cards_controller, get_cards_string_controller
 
 app = Flask(__name__)
 
@@ -13,28 +12,19 @@ def hello():
 @app.route('/api/cards', methods=['POST'])
 def post_cards():
     jsonTopicInfo = request.get_json()
-    resCards = {}
-    while not resCards:
-        resCards = extract_json(cards(jsonTopicInfo.get("topicInfo")))
-    return jsonify(resCards), 201
+    return jsonify(get_cards_controller(jsonTopicInfo.get("topicInfo"))), 201
 
 # Ruta GET para obtener información de las cartas con un parámetro topicInfo
 @app.route('/api/cards', methods=['GET'])
 def get_cards():
     topic_info = request.args.get('topicInfo')
-    resCards = {}
-    while not resCards:
-        resCards = extract_json(cards(topic_info))
-    return jsonify(resCards), 201
+    return jsonify(get_cards_controller(topic_info)), 201
 
 # Ruta GET para obtener información de las cartas con un parámetro topicInfo
 @app.route('/api/cards/string', methods=['GET'])
 def get_cards_string():
     topic_info = request.args.get('topicInfo')
-    resCards = "{}"
-    while resCards == "{}":
-        resCards = extract_json_string(cards(topic_info))
-    return jsonify(resCards), 201
+    return jsonify(get_cards_string_controller(topic_info)), 201
 
 if __name__ == '__main__':
     # Cambiar la IP y el puerto
