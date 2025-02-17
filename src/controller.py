@@ -67,10 +67,10 @@ def parse_card_number(input_string):
             return card_number
         except ValueError:
             print("The number of cards could not be converted to an integer.")
-            return None
+            return 0
     else:
         print("Delimiter 'Número de tarjetas:' not found in the input string.")
-        return None
+        return 0
     
 def get_cards_string_controller(topic_info):
     return json.dumps(get_cards_controller(topic_info), ensure_ascii=False, indent=4)

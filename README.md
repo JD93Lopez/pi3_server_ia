@@ -1,4 +1,6 @@
 # pi3_server_ia
+# Built with Llama
+# This proyect is made to work with the help of llama 3.2 model
 
 # Para instalar Ollama en linux:
 
