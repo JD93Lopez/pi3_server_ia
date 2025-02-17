@@ -2,18 +2,29 @@ from ai.ai_model import cards
 from json_extract.json_extract import extract_json
 import json
 
+badInputAnswer = {"tarjetas": [{
+    "pregunta": "Algo salió mal, intenta cambiar tu tema o explicación",
+    "respuesta": "Algo en tu tema o explicación no le gustó a la IA, intenta corregirlo"
+}]}
+
 def get_cards_controller(topic_info):
     if not topic_info:
-        topic_info = "Responde un array vacio porque el usuario no ha introducido información del tema, Número de tarjetas: 0"
+        topic_info = "Número de tarjetas: 0"
+
+    resCards = wrong_amount_controller(topic_info)
+    
+    return resCards
+
+def wrong_amount_controller(topic_info):
 
     card_number = parse_card_number(topic_info)
-
     resCards = {"tarjetas": []}
 
-    while len(resCards.get("tarjetas")) != card_number:
-        resCards = {}
-        while not resCards:
-            resCards = extract_json(cards(topic_info))
+    cntIncorrectAmount = -1
+    while (len(resCards.get("tarjetas")) != card_number) and (cntIncorrectAmount < 3) and (not is_bad_input_res(resCards)):
+        cntIncorrectAmount += 1
+
+        resCards = bad_input_controller(topic_info)
         
         if len(resCards.get("tarjetas")) < card_number:
             continue
@@ -22,9 +33,26 @@ def get_cards_controller(topic_info):
     
     return resCards
 
-def get_cards_string_controller(topic_info):
-    return json.dumps(get_cards_controller(topic_info), ensure_ascii=False, indent=4)
+def bad_input_controller(topic_info):
 
+    resCards = {}
+    cntIncorrectJson = -1
+    badInputRes = True
+
+    while (badInputRes) and (cntIncorrectJson < 2):
+        cntIncorrectJson += 1
+
+        resCards = extract_json(cards(topic_info), badInputAnswer)
+
+        badInputRes = is_bad_input_res(resCards)
+    
+    return resCards
+
+def is_bad_input_res(resCards):
+    if(  resCards.get("tarjetas") and resCards.get("tarjetas")[0] ):
+        return (resCards.get("tarjetas")[0].get("pregunta") == badInputAnswer["tarjetas"][0]["pregunta"])
+    else:
+        return False
 
 def parse_card_number(input_string):
     parts = input_string.split("Número de tarjetas:")
@@ -43,3 +71,6 @@ def parse_card_number(input_string):
     else:
         print("Delimiter 'Número de tarjetas:' not found in the input string.")
         return None
+    
+def get_cards_string_controller(topic_info):
+    return json.dumps(get_cards_controller(topic_info), ensure_ascii=False, indent=4)

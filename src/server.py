@@ -12,7 +12,7 @@ CORS(app)
 def hello():
     return jsonify({"message": "Hello, World!"})
 
-# Ruta POST para calcular el daño de un héroe
+# Ruta POST para obtener información de las cartas con un parámetro topicInfo
 @app.route('/api/cards', methods=['POST'])
 def post_cards():
     jsonTopicInfo = request.get_json()
@@ -24,7 +24,7 @@ def get_cards():
     topic_info = request.args.get('topicInfo')
     return jsonify(get_cards_controller(topic_info)), 200
 
-# Ruta GET para obtener información de las cartas con un parámetro topicInfo
+# Ruta GET para obtener información de las cartas en string con un parámetro topicInfo
 @app.route('/api/cards/string', methods=['GET'])
 def get_cards_string():
     topic_info = request.args.get('topicInfo')
