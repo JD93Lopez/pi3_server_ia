@@ -24,7 +24,8 @@ def post_cards():
 @app.route('/api/cards', methods=['GET'])
 def get_cards():
     topic_info = request.args.get('topicInfo')
-    cards_id = generate_cards_controller(topic_info)
+    topic_id = request.args.get('topicId')
+    cards_id = generate_cards_controller(topic_id, topic_info)
     return jsonify({"cards_id":cards_id}), 200
 
 # Ruta GET para obtener información de las cartas en string con un parámetro topicInfo
