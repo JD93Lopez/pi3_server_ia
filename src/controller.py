@@ -1,6 +1,5 @@
 from ai.ai_model import cards
 from json_extract.json_extract import extract_json
-import json
 import threading
 
 badInputAnswer = {"tarjetas": [{
@@ -9,17 +8,15 @@ badInputAnswer = {"tarjetas": [{
 }]}
 
 cardsMap = {}
-cardsCount = -1
 
 def get_cards_from_map(cards_id):
     global cardsMap
     return cardsMap.get(str(cards_id))
 
 def generate_cards_controller(topic_id, topic_info):
-    global cardsCount
-    cardsCount += 1
 
-    cardsId = (str(topic_id)+"-"+str(cardsCount))
+    cardsId = str(topic_id)
+    cardsMap[cardsId] = None
 
     # Define la función que deseas ejecutar en otro hilo
     def add_pattern():
