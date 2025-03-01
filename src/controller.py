@@ -13,15 +13,17 @@ cardsCount = -1
 
 def get_cards_from_map(cards_id):
     global cardsMap
-    return cardsMap.get(int(cards_id))
+    return cardsMap.get(str(cards_id))
 
-def generate_cards_controller(topic_info):
+def generate_cards_controller(topic_id, topic_info):
     global cardsCount
     cardsCount += 1
 
+    cardsId = (str(topic_id)+"-"+str(cardsCount))
+
     # Define la función que deseas ejecutar en otro hilo
     def add_pattern():
-        thread_generate_cards( topic_info, cardsCount )#Tarea a ejecutar en otro hilo
+        thread_generate_cards( topic_info, cardsId )#Tarea a ejecutar en otro hilo
 
     # Crea un hilo
     hilo = threading.Thread(target=add_pattern)
@@ -29,9 +31,9 @@ def generate_cards_controller(topic_info):
     # Inicia el hilo
     hilo.start()
 
-    return cardsCount
+    return cardsId
 
-def thread_generate_cards(topic_info, cardsCount):
+def thread_generate_cards(topic_info, cardsId):
     global cardsMap
     
     if not topic_info:
@@ -43,7 +45,7 @@ def thread_generate_cards(topic_info, cardsCount):
         cntWrongDataStructure += 1
         resCards = wrong_amount_controller(topic_info)
 
-    cardsMap[cardsCount] = limpiar_json(resCards)
+    cardsMap[cardsId] = limpiar_json(resCards)
 
 def limpiar_json(data):
     json_limpio = {"tarjetas": data["tarjetas"]}
