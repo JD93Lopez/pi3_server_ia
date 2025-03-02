@@ -1,0 +1,18 @@
+{
+    "26": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuál es la principal característica del avión de combate F-16 Fighting Falcon? 🚀",
+                "respuesta": "La capacidad de supercrítico y su rendimiento aerodinámico, lo que le permite realizar maniobras complejas y mantener una velocidad alta durante largos períodos. 💨"
+            },
+            {
+                "pregunta": "¿Qué tipo de armamento está equipado el avión de guerra A-10 Thunderbolt II? ⚔️",
+                "respuesta": "El A-10 es equipado con canones de 30 mm, lo que le permite realizar ataques cercanos y precisos contra objetivos enemigos. 🔫"
+            },
+            {
+                "pregunta": "¿Cuál es la ventaja principal del avión de guerra stealth B-2 Spirit? 🕵️‍♂️",
+                "respuesta": "Su capacidad para disfrazarse de una forma que lo hace difícil de detectar por los sistemas de radar enemigos, lo que le permite realizar misiones de sigilo y sorpresa. 🔮"
+            }
+        ]
+    }
+}
