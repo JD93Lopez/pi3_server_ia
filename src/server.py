@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from controller import generate_cards_controller, get_cards_from_map
+from controller import generate_cards_controller, get_cards_from_map, delete_cards_from_map
 from waitress import serve
 
 app = Flask(__name__)
@@ -40,6 +40,11 @@ def get_cards():
 def get_cards_by_id():
     cards_id = request.args.get('cards_id')
     return jsonify(get_cards_from_map(cards_id)), 200
+
+@app.route('/api/cards/delete', methods=['GET'])
+def delete_cards_by_id():
+    cards_id = request.args.get('cards_id')
+    return jsonify(delete_cards_from_map(cards_id)), 200
 
 if __name__ == '__main__':
     # Cambiar la IP y el puerto
