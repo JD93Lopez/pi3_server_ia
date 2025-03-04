@@ -3,7 +3,7 @@ from json_extract.json_extract import extract_json
 
 badInputAnswer = {"tarjetas": [{
     "pregunta": "Algo salió mal, intenta cambiar tu tema o explicación",
-    "respuesta": "Algo en tu tema o explicación no le gustó a la IA o es demasiado extenso o complejo, intenta corregirlo o reintentarlo"
+    "respuesta": "Algo en tu tema o explicación no le gustó a la IA, intenta corregirlo o reintentarlo"
 }]}
 
 def bad_input_controller(topic_info):
