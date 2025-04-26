@@ -1,17 +1,788 @@
 {
-    "26": {
+    "29": {
         "tarjetas": [
             {
-                "pregunta": "¿Cuál es la principal característica del avión de combate F-16 Fighting Falcon? 🚀",
-                "respuesta": "La capacidad de supercrítico y su rendimiento aerodinámico, lo que le permite realizar maniobras complejas y mantener una velocidad alta durante largos períodos. 💨"
+                "pregunta": "¿Qué es un Tiramisù? 🍰",
+                "respuesta": "El Tiramisù es un postre italiano hecho con mascarpone, café y savia de naranja. 🌟"
             },
             {
-                "pregunta": "¿Qué tipo de armamento está equipado el avión de guerra A-10 Thunderbolt II? ⚔️",
-                "respuesta": "El A-10 es equipado con canones de 30 mm, lo que le permite realizar ataques cercanos y precisos contra objetivos enemigos. 🔫"
+                "pregunta": "¿Cuál es el ingrediente principal del Mille-Feuille? 🥐",
+                "respuesta": "El Mille-Feuille se caracteriza por su base de masa laminada y relleno de crema pastelera, cubierto con una capa de frutas. 🍰"
             },
             {
-                "pregunta": "¿Cuál es la ventaja principal del avión de guerra stealth B-2 Spirit? 🕵️‍♂️",
-                "respuesta": "Su capacidad para disfrazarse de una forma que lo hace difícil de detectar por los sistemas de radar enemigos, lo que le permite realizar misiones de sigilo y sorpresa. 🔮"
+                "pregunta": "¿Qué es un Crème Brûlée? 🥛",
+                "respuesta": "El Crème Brûlée es un postre francés consistente en crema líquida, azúcar y huevos, cociñdo en un baño de agua. 🔥"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente clave del Apple Pie? 🍎",
+                "respuesta": "El Apple Pie se basa en una masa dorada y una filling hecha con manzanas, azúcar, especias y mantequilla. 🍰"
+            },
+            {
+                "pregunta": "¿Qué es un Baklava? 🌿",
+                "respuesta": "El Baklava es un postre mediterráneo tradicional hecho con masa de ajo, nueces picadas y azúcar caramelizada. 🔥"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente principal del Cannoli? 🍪",
+                "respuesta": "Los Cannoli son un postre siciliano hechos con una masa de ajo, ricotta y chocolate, rellenos de crema. 🎂"
+            },
+            {
+                "pregunta": "¿Qué es un Éclair? 🥐",
+                "respuesta": "El Éclair es un postre francés hecho con una masa de choux, crema pastelera y azúcar caramelizada. 🔥"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente clave del Cheesecake? 🧀",
+                "respuesta": "El Cheesecake se caracteriza por su base de graham y relleno de crema fresca, azúcar y huevos. 🍰"
+            },
+            {
+                "pregunta": "¿Qué es un Flan? 🥛",
+                "respuesta": "El Flan es un postre español hecho con leche, azúcar y huevos, cociñdo en un baño de agua. 🔥"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente principal del Gateau? 🎂",
+                "respuesta": "El Gateau es un postre francés hecho con una masa de choux, crema pastelera y azúcar caramelizada. 🔥"
+            },
+            {
+                "pregunta": "¿Qué es un Gâteau Basque? 🌿",
+                "respuesta": "El Gâteau Basque es un postre francesco-basco hecho con una masa de ajo, crema pastelera y azúcar caramelizada. 🔥"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente clave del Kouign-amann? 🍞",
+                "respuesta": "El Kouign-amann es un postre francés hecho con una masa de levadura, azúcar y caramelo. 🔥"
+            },
+            {
+                "pregunta": "¿Qué es un Kourabiedes? 🌿",
+                "respuesta": "Los Kourabiedes son un postre griego hecho con amargos, azúcar y huevos, mezclados en una masa de harina. 🍰"
+            },
+            {
+                "pregunta": "¿Cuál es el ingrediente principal del Macarón? 🎂",
+                "respuesta": "El Macarón es un postre francés hecho con una masa de azúcar, huevos y mantequilla, relleno de crema o frutas. 🍰"
+            },
+            {
+                "pregunta": "¿Qué es un Malva Pudding? 🍞",
+                "respuesta": "El Malva Pudding es un postre africano hecho con pan, leche, azúcar y una mezcla de especias, servido con crema. 🍰"
+            }
+        ]
+    },
+    "30": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es una flor blanca? 🌼",
+                "respuesta": "Una flor blanca es un tipo de flor que tiene pétalos blancos. 😊"
+            },
+            {
+                "pregunta": "¿Cuáles son las variedades más comunes de flores blancas? 💡",
+                "respuesta": "Algunas variedades más comunes de flores blancas son las rosas, las margaritas y las lirios. 🌺"
+            },
+            {
+                "pregunta": "¿Por qué se consideran flores blancas? ✨",
+                "respuesta": "Las flores blancas a menudo se consideran símbolos de pureza, inocencia y paz. ❤️"
+            },
+            {
+                "pregunta": "¿Cómo se cuidan las flores blancas? 🌿",
+                "respuesta": "Las flores blancas requieren un ambiente fresco y bien ventilado para crecer saludables. ☀️"
+            },
+            {
+                "pregunta": "¿Cuál es el significado de las flores blancas en diferentes culturas? 🌎",
+                "respuesta": "En algunas culturas, las flores blancas se consideran símbolos de amor y devoción, mientras que en otras se ven como un signo de paz y tranquilidad. 🌸"
+            },
+            {
+                "pregunta": "¿Cómo se pueden utilizar las flores blancas en decoración? 💐",
+                "respuesta": "Las flores blancas pueden ser utilizadas para crear decoraciones hermosas y elegantes, ya sea en sí mismas o mezcladas con otras flores. 🌺"
+            }
+        ]
+    },
+    "31": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué características tienen los aviones de combate? 🚀",
+                "respuesta": "Los aviones de combate suelen tener velocidad, maniobrabilidad y armas avanzadas. 💥"
+            },
+            {
+                "pregunta": "¿Cuáles son las principales armas utilizadas en aviones de combate? 🔫",
+                "respuesta": "Las armas más comunes incluyen cañones, misiles aire-aire y bombas guiadas. 🎯"
+            },
+            {
+                "pregunta": "¿Por qué es importante la velocidad en un avión de combate? 🏎️",
+                "respuesta": "La velocidad permite a los pilotos escapar de los ataques enemigos o alcanzar objetivos antes que el enemigo pueda reaccionar. 💨"
+            }
+        ]
+    },
+    "39": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la forma cuadrada? 📏",
+                "respuesta": "La forma cuadrada es una figura geométrica con cuatro lados iguales y cuatro ángulos rectos. 📚"
+            }
+        ]
+    },
+    "40": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es FFT? 🌟",
+                "respuesta": "La FFT (Transformada en el dominio del tiempo - Fast Fourier Transform) es un algoritmo utilizado para transformar señales de tiempo a señales de frecuencia. Es una herramienta fundamental en la análisis de señales y la ingeniería digital. 📚"
+            }
+        ]
+    },
+    "41": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la sintaxis básica de JSON? 🌟",
+                "respuesta": "La sintaxis básica de JSON se compone de objetos con propiedades y valores, separados por comas. Utiliza dos puntos para delimitar propiedades 👍"
+            }
+        ]
+    },
+    "42": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuál es el tipo de pez más común en las aguas dulces? 🐟",
+                "respuesta": "El trucha es uno de los tipos de peces más comunes en las aguas dulces. 🌊"
+            },
+            {
+                "pregunta": "¿Qué es un pez cebra y qué características tiene? 🎨",
+                "respuesta": "Un pez cebra es un tipo de pez que tiene una coloración marrón con rayas blancas, y se encuentra comúnmente en las aguas dulces. 🌴"
+            },
+            {
+                "pregunta": "¿Cuál es el tamaño promedio de un pez gato? 🐈",
+                "respuesta": "El tamaño promedio de un pez gato puede variar, pero generalmente mide entre 5-10 cm en longitud. 📏"
+            }
+        ]
+    },
+    "2": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la mecánica cuántica? 🌟",
+                "respuesta": "La mecánica cuántica es una rama de la física que estudia el comportamiento de las partículas subatómicas. 📚"
+            },
+            {
+                "pregunta": "¿Qué es un estado de suma cero? 🤔",
+                "respuesta": "Un estado de suma cero es una superposición de estados en el que la probabilidad de encontrar una partícula en uno o otro estado es igual a 50%. 🔮"
+            },
+            {
+                "pregunta": "¿Qué es la entropía cuántica? 📊",
+                "respuesta": "La entropía cuántica es un concepto que describe la desorden o la aleatoriedad en los sistemas cuánticos. Es una medida de la cantidad de información no ordenada en un sistema. 🤯"
+            },
+            {
+                "pregunta": "¿Qué es la relatividad cuántica? 🔀",
+                "respuesta": "La relatividad cuántica es una teoría que intenta fusionar la mecánica cuántica con la teoría de la relatividad general de Albert Einstein. Es un campo de investigación activo en la física teórica moderna. 🌐"
+            },
+            {
+                "pregunta": "¿Qué es el comportamiento aleatorio? 🔮",
+                "respuesta": "El comportamiento aleatorio se refiere a las predicciones impredecibles y no deterministas que ocurren en los sistemas cuánticos. Estos comportamientos son fundamentales para la mecánica cuántica. 🤔"
+            },
+            {
+                "pregunta": "¿Qué es el principio de superposición? 🌟",
+                "respuesta": "El principio de superposición establece que una partícula puede existir en múltiples estados al mismo tiempo hasta que se mide o observa. Esto contradice la visión clásica de que las partículas deben estar en un estado determinado. 🤯"
+            },
+            {
+                "pregunta": "¿Qué es el principio de entrelazamiento cuántico? 🔗",
+                "respuesta": "El principio de entrelazamiento cuántico establece que dos o más sistemas subatómicos pueden estar conectados de manera que la acción en uno afecta al otro, independientemente de la distancia entre ellos. 🌐"
+            },
+            {
+                "pregunta": "¿Qué es el principio de ocultación cuántica? 🕵️‍♂️",
+                "respuesta": "El principio de ocultación cuántica establece que ciertas propiedades de los sistemas cuánticos pueden estar ocultas hasta que se mide o observa. Esto contradice la visión clásica de que las observaciones deben influir en el sistema. 🔍"
+            },
+            {
+                "pregunta": "¿Qué es la interpretación cuántica? 💡",
+                "respuesta": "La interpretación cuántica se refiere a las diferentes formas en que se puede entender el comportamiento de los sistemas cuánticos. Algunas interpretaciones, como la interpretación cibernética, sugieren que el sistema cuántico está interactuando con su entorno. 🤖"
+            },
+            {
+                "pregunta": "¿Qué es la física de las partículas? 🔍",
+                "respuesta": "La física de las partículas se refiere a la estudio de las propiedades y comportamientos de los elementos más pequeños de la materia, como las partículas subatómicas. 📚"
+            }
+        ]
+    },
+    "43": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es Monopoly? 🎲",
+                "respuesta": "Monopoly es un juego de tablero clásico donde los jugadores compiten para comprar propiedades y acumular riqueza. ¡Es un clásico! 📚"
+            },
+            {
+                "pregunta": "¿Cuáles son las propiedades más valiosas en Monopoly? 💸",
+                "respuesta": "Las propiedades más valiosas son Boardwalk y Park Place, ya que ofrecen los mejores rendimientos de alquiler. 📈"
+            },
+            {
+                "pregunta": "¿Cómo se gana el juego de Monopoly? 🏆",
+                "respuesta": "El juego se gana cuando un jugador acumula todos los activos de los demás jugadores, incluyendo su dinero y propiedades. ¡Felicidades al ganador! 🎉"
+            }
+        ]
+    },
+    "44": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es una rosa? 🌹",
+                "respuesta": "Una rosa es un tipo de flor popular y hermosa. 📚"
+            },
+            {
+                "pregunta": "¿Cuál es la rosa más famosa del mundo? 💐",
+                "respuesta": "La Rosa de Nozay, también conocida como 'Rosa de París', es considerada una de las más hermosas y famosas del mundo. 🌸"
+            }
+        ]
+    },
+    "45": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es aaa? 🌟",
+                "respuesta": "aaa es un concepto clave. 📚"
+            }
+        ]
+    },
+    "46": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es bbb? 🤔",
+                "respuesta": "bbb es un término genérico que se utiliza para describir cualquier cosa relacionada con el tema. 📝"
+            }
+        ]
+    },
+    "47": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es ccc? 🌟",
+                "respuesta": "Se puede decir que ccc es algo específico, pero no tengo información suficiente para proporcionar una respuesta detallada. Si deseas obtener más información sobre el tema, puedo sugerirte buscar en un recurso educativo o consultar con un experto en el campo 📚"
+            }
+        ]
+    },
+    "48": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es ppp? 🤔",
+                "respuesta": "PPP es una empresa española que se especializa en la generación y distribución de energía eléctrica. 💡"
+            }
+        ]
+    },
+    "49": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué significa bbb? 🤔",
+                "respuesta": "bbb es un código que representa una categoría o un conjunto específico de datos. Puede variar según el contexto y la industria en la que se utilice."
+            }
+        ]
+    },
+    "50": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es ppp? 🌟",
+                "respuesta": "ppp es una técnica de codificación que se utiliza para transmitir datos por cable. Es importante porque permite la comunicación de información entre dispositivos y sistemas 📚"
+            }
+        ]
+    },
+    "51": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es bbb? 🌟",
+                "respuesta": "bbb es un término genérico que se utiliza para referirse a cualquier cosa relacionada con el tema en cuestión.📚"
+            }
+        ]
+    },
+    "52": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es bbb? 🌟",
+                "respuesta": "bbb es un término relacionado con el tema. 📚"
+            }
+        ]
+    },
+    "53": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es aaa? 🌟",
+                "respuesta": "aaa es un término genérico utilizado para describir una categoría o concepto específico. 📚"
+            }
+        ]
+    },
+    "54": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué beneficios tiene el ejercicio físico regular? 🏋️‍♀️",
+                "respuesta": "El ejercicio físico regular mejora la salud cardiovascular y reduce el riesgo de enfermedades crónicas. 💪"
+            }
+        ]
+    },
+    "55": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es bbb? 🌟",
+                "respuesta": "bbb es un término que se refiere a la información proporcionada sobre este tema. 📚"
+            }
+        ]
+    },
+    "56": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué tipo de león es el más grande? 🌟",
+                "respuesta": "El león macho africano es el tipo de león más grande. Pueden alcanzar hasta 6,5 metros de largo y pesar hasta 330 kg."
+            },
+            {
+                "pregunta": "¿Cuál fue la historia del reino de los leones en África? 🏰",
+                "respuesta": "Los leones fueron el rey de los cazadores en África durante siglos. Su poder se basaba en su fuerza y velocidad, pero también en su inteligencia y coordinación."
+            },
+            {
+                "pregunta": "¿Qué es lo que alimentan los leones? 🍔🌮",
+                "respuesta": "Los leones son depredadores carnívoros y se alimentan de varias especies de animales, incluyendo antílopes, zebras y otros ungulados."
+            },
+            {
+                "pregunta": "¿Por qué los leones son considerados 'reyes' de la sabana? 👑",
+                "respuesta": "Los leones son considerados 'reyes' de la sabana debido a su tamaño, fuerza y poder. Son los depredadores más grandes de la sabana africana."
+            },
+            {
+                "pregunta": "¿Cómo se comunican los leones entre sí? 💬",
+                "respuesta": "Los leones se comunican entre sí mediante una variedad de sonidos, incluyendo rugidos, gemidos y silbidos. También utilizan ladridos para señalar a sus presas."
+            },
+            {
+                "pregunta": "¿Qué es lo que los leones hacen para cuidar a sus cubs? 👶",
+                "respuesta": "Los leones son padres muy involucrados y cuidan a sus cubs durante varios años. Los machos protegen a las hembras y los cubs de otros depredadores."
+            },
+            {
+                "pregunta": "¿Por qué es importante la conservación de los leones? 🌎",
+                "respuesta": "La conservación de los leones es importante debido a su papel en el ecosistema africano. También son una especie emblemática y un símbolo cultural para muchas comunidades."
+            }
+        ]
+    },
+    "57": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es el topic? 🌟",
+                "respuesta": "El topic es una descripción detallada del tema principal. 📚"
+            }
+        ]
+    },
+    "58": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué son las olas en el océano? 🌊",
+                "respuesta": "Las olas son movimientos periódicos del agua en la superficie del océano, causados por las corrientes y vientos. 🌴"
+            }
+        ]
+    },
+    "60": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué colores se encuentran comúnmente en los peces? 🐟",
+                "respuesta": "Los peces pueden tener una variedad de colores, pero algunos colores más comunes son el azul, el verde y el rojo. 🌊"
+            },
+            {
+                "pregunta": "¿Cuál es la especie de pez más grande del mundo? 🐠",
+                "respuesta": "El pez lionel, también conocido como marlin gigante, es una especie de pez que puede alcanzar hasta 7 metros de largo. 🌊"
+            },
+            {
+                "pregunta": "¿Qué tipo de peces son comunes en las aguas dulces? 💧",
+                "respuesta": "Algunos ejemplos de peces que se encuentran en las aguas dulces incluyen el trucha, el salmón y la anguila. 🐟"
+            },
+            {
+                "pregunta": "¿Cómo se ven los peces en diferentes profundidades del mar? 🌊",
+                "respuesta": "A medida que la profundidad del mar aumenta, los colores de los peces pueden variar, ya que la luz del sol es más débil. Algunos peces tienen una forma especial para capturar la luz y se ven con colores brillantes en las profundidades. 💡"
+            }
+        ]
+    },
+    "None": {
+        "tarjetas": []
+    },
+    "61": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es una célula? 🧬",
+                "respuesta": "Una célula es la unidad básica de vida. 💡"
+            },
+            {
+                "pregunta": "¿Cuáles son los componentes celulares principales? 🔍",
+                "respuesta": "Los componentes celulares principales son el núcleo, el citoplasma y las membranas celulares. 📚"
+            },
+            {
+                "pregunta": "¿Qué es la membrana plasmática? 🌆",
+                "respuesta": "La membrana plasmática es una capa delgada que rodea la célula y regula el intercambio de materiales. 🔒"
+            },
+            {
+                "pregunta": "¿Cuál es la función del núcleo celular? 🧬",
+                "respuesta": "El núcleo celular contiene el material genético (ADN) y es responsable de la síntesis de proteínas. 💻"
+            },
+            {
+                "pregunta": "¿Qué son las mitocondrias? ⚡️",
+                "respuesta": "Las mitocondrias son orgánulos que producen energía para las células a través del proceso de citocromos. 🔋"
+            },
+            {
+                "pregunta": "¿Cuáles son los tipos de membranas celulares? 📝",
+                "respuesta": "Hay dos tipos de membranas celulares: la membrana plasmática y las membranas eritroides (que rodean a las células rojas). 🔵"
+            },
+            {
+                "pregunta": "¿Qué es la citoplasma? 🌿",
+                "respuesta": "La citoplasma es el líquido amarillo que llena los vacuoles celulares y proporciona soporte estructural. 🌻"
+            },
+            {
+                "pregunta": "¿Cuál es la función de las ribosomas? 💡",
+                "respuesta": "Los ribosomas son orgánulos que sintetizan proteínas a partir del ADN. 🔬"
+            },
+            {
+                "pregunta": "¿Qué son los vacuoles celulares? 🌸",
+                "respuesta": "Los vacuoles celulares son orgánulos que almacenan sustancias como agua, nutrientes y desechos. 💧"
+            },
+            {
+                "pregunta": "¿Cuáles son las características de la célula? 🔍",
+                "respuesta": "Las características de la célula incluyen la membrana plasmática, el núcleo, el citoplasma, las mitocondrias y los vacuoles. 📚"
+            }
+        ]
+    },
+    "62": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es el ciclo de Krebs? 🌟",
+                "respuesta": "El ciclo de Krebs es un proceso bioquímico que ocurre en las células del cuerpo humano, responsable de la generación de energía a partir de la glucosa. Es fundamental para la supervivencia de las células. 📚"
+            },
+            {
+                "pregunta": "¿Qué son los ácidos grises? 🔍",
+                "respuesta": "Los ácidos grises son compuestos químicos que se producen durante el ciclo de Krebs. Son la fuente principal de energía para las células del cuerpo humano. 💡"
+            },
+            {
+                "pregunta": "¿Cuál es el papel del NAD+ en el ciclo de Krebs? 🔄",
+                "respuesta": "El NAD+ (nicotinamida adenina dinucleótido) es un compuesto químico que juega un papel crucial en el ciclo de Krebs, proporcionando energía a las células. Sin él, no se produciría la generación de energía. 🌱"
+            },
+            {
+                "pregunta": "¿Por qué es importante el ciclo de Krebs? 💪",
+                "respuesta": "El ciclo de Krebs es fundamental para la supervivencia de las células del cuerpo humano, ya que permite la generación de energía a partir de la glucosa. Es crucial para mantener el metabolismo y el funcionamiento normal del cuerpo. 🏋️‍♂️"
+            }
+        ]
+    },
+    "63": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la atmósfera de Marte? 🌟",
+                "respuesta": "La atmósfera de Marte es muy delgada y no tiene suficiente presión para soportar el agua líquida. 📚"
+            },
+            {
+                "pregunta": "¿Cuál es la composición de la atmósfera de Marte? 🔍",
+                "respuesta": "La atmósfera de Marte está compuesta principalmente por dióxido de carbono y nitrógeno. 💡"
+            },
+            {
+                "pregunta": "¿Qué hace que la superficie de Marte sea tan fría? ❄️",
+                "respuesta": "La temperatura de la superficie de Marte es muy baja debido a su lejanía del Sol y a la falta de atmósfera para retener el calor. 🌡"
+            },
+            {
+                "pregunta": "¿Cuáles son las características geológicas de Marte? 🌎",
+                "respuesta": "Marte tiene valles, cráteres y volcanes, lo que indica una historia geológica interesante. 📊"
+            },
+            {
+                "pregunta": "¿Por qué la superficie de Marte es tan roja? 💄",
+                "respuesta": "La superficie de Marte tiene un color rojo debido a la presencia de óxidos de hierro y magnesio en el suelo. 🔴"
+            },
+            {
+                "pregunta": "¿Qué tipo de rocas se encuentran en Marte? 🤔",
+                "respuesta": "Marte tiene rocas basáticas, como basaltos y granitos, que sugieren una historia volcánica pasada. ⛰️"
+            },
+            {
+                "pregunta": "¿Cuál es el clima actual de Marte? ⛈️",
+                "respuesta": "El clima en Marte es extremadamente frío y seco, con temperaturas que pueden llegar a -125°C en la superficie. 🥶"
+            },
+            {
+                "pregunta": "¿Qué tipo de vida podría haber existido en Marte? 🐝",
+                "respuesta": "Aunque no hay evidencia de vida actual en Marte, algunas condiciones podrían haber permitido la existencia de microorganismos en el pasado. 🌿"
+            }
+        ]
+    },
+    "65": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuáles son las razas más comunes de gatos? 🐈",
+                "respuesta": "Existen varias razas, como el Siamesa, el Persa y el Maine Coon. Cada raza tiene características únicas."
+            },
+            {
+                "pregunta": "¿Por qué los gatos son conocidos por su pelaje blanco? 💫",
+                "respuesta": "La razón es que su piel blanca se vuelve más visible cuando producen melanina, un pigmento que les da color a la piel y el pelo."
+            },
+            {
+                "pregunta": "¿Qué tipo de comida son los gatos felinos? 🍽️",
+                "respuesta": "Los gatos son carnívoros y necesitan una dieta rica en proteínas, como carne fresca o procesada, y menores cantidades de carbohidratos y grasas."
+            },
+            {
+                "pregunta": "¿Por qué los gatos aman dormir? 😴",
+                "respuesta": "Los gatos son animales noturnos y tienen un ciclo de sueño diario de 16 horas, más la noche. Necesitan descansar para recuperarse."
+            },
+            {
+                "pregunta": "¿Qué es el estilo de vida sedentario de los gatos? 🏃‍♀️",
+                "respuesta": "Los gatos son animales que prefieren caminar a correr y tienen una capacidad limitada para realizar ejercicio. Su estilo de vida sedentario les permite mantener un peso saludable."
+            },
+            {
+                "pregunta": "¿Por qué los gatos son conocidos por su higiene personal? 🚽",
+                "respuesta": "Los gatos son animales limpios y tienen un sistema digestivo que les ayuda a eliminar el exceso de bacterias, lo que les permite mantenerse higiénicos."
+            },
+            {
+                "pregunta": "¿Qué es la importancia del cuidado dental en los gatos? 💦",
+                "respuesta": "El cuidado dental es fundamental para mantener la salud bucal y evitar problemas como caries y enfermedades periodontales."
+            },
+            {
+                "pregunta": "¿Por qué los gatos necesitan un refugio seguro? 🛋️",
+                "respuesta": "Los gatos necesitan un lugar seguro donde sentirse protegidos y protegerse de estímulos o situaciones que puedan ser peligrosas."
+            }
+        ]
+    },
+    "66": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es una raza de perro? 🐾",
+                "respuesta": "Una raza de perro es un grupo de perros con características físicas y comportamentales comunes. 📚"
+            },
+            {
+                "pregunta": "¿Cuáles son las razas más populares de perros? 🤔",
+                "respuesta": "Las razas más populares de perros son Labrador Retriever, German Shepherd, Golden Retriever y Poodle. 🐾"
+            },
+            {
+                "pregunta": "¿Qué es una raza de perro pura? 💎",
+                "respuesta": "Una raza de perro pura es una raza que se ha desarrollado durante siglos sin cruzamientos con otras razas, manteniendo su pureza genética. 🐾"
+            },
+            {
+                "pregunta": "¿Cómo se clasifican las razas de perros? 👩‍🎓",
+                "respuesta": "Las razas de perros se clasifican en grupos según su tamaño, temperamento y características físicas. 📚"
+            },
+            {
+                "pregunta": "¿Qué es un clásico de la raza de perro? 🏆",
+                "respuesta": "Un clásico de la raza de perro es una raza que se ha mantenido durante muchos años y es considerada emblemática de su grupo. 🐾"
+            },
+            {
+                "pregunta": "¿Cómo se cuidan las razas de perros? 🚿",
+                "respuesta": "Las razas de perros requieren un cuidado especializado que incluye alimentación, ejercicio y atención a su salud y bienestar. 🐾"
+            },
+            {
+                "pregunta": "¿Qué es una raza de perro criollo? 🌎",
+                "respuesta": "Una raza de perro criolla es una raza que se ha desarrollado en un país específico, adaptándose a las condiciones climáticas y culturales locales. 🐾"
+            },
+            {
+                "pregunta": "¿Cómo se puede reconocer una raza de perro? 👀",
+                "respuesta": "Una raza de perro se puede reconocer por su apariencia física, características comportamentales y patrones genéticos. 📚"
+            }
+        ]
+    },
+    "67": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es una pirámide? 🌟",
+                "respuesta": "Una pirámide es un edificio escalonado con base ancha y suma más estrecha hacia la cima. 📚"
+            },
+            {
+                "pregunta": "Para qué se construyeron las pirámides? 🔍",
+                "respuesta": "Las pirámides se construyeron como tumbas para los faraones antiguos de Egipto. 💫"
+            },
+            {
+                "pregunta": "¿Qué materiales se utilizaban para construir las pirámides? 🏗️",
+                "respuesta": "Las pirámides se construyeron con piedras y bloques de granito, basalto y caliza. 🌪️"
+            },
+            {
+                "pregunta": "¿Cómo se edificaron las pirámides? 💪",
+                "respuesta": "Las pirámides se construyeron mediante una cadena de trabajadores que levantaban los bloques con palas y ruedas. 🔩"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo llevó la construcción de una pirámide? ⏰",
+                "respuesta": "La construcción de las pirámides podía llevar más de 20 años, dependiendo del tamaño y complejidad del proyecto. 🕒"
+            },
+            {
+                "pregunta": "¿Qué era el propósito de la gran cantidad de escalinatas en las pirámides? 🤔",
+                "respuesta": "La gran cantidad de escalinatas ayudaba a reducir el número de pasos que los trabajadores debían hacer, lo que aumentaba su eficiencia y productividad. 💪"
+            },
+            {
+                "pregunta": "¿Qué es la Pirámide de Keops? 🌆",
+                "respuesta": "La Pirámide de Keops es una de las 7 maravillas del mundo antiguo, construida alrededor del año 2580 a.C. en Egipto. 🏰"
+            },
+            {
+                "pregunta": "¿Qué era la pirámide de Giza? 🌟",
+                "respuesta": "La Pirámide de Giza es el único restante de las 7 maravillas del mundo antiguo, construida alrededor del año 2580 a.C. en Egipto. 🏛️"
+            },
+            {
+                "pregunta": "¿Qué era la pirámide de Saqqara? 🔍",
+                "respuesta": "La Pirámide de Saqqara es una pirámide construida alrededor del año 2650 a.C. en Egipto, que fue utilizada como tumba para el faraón Djet. 🏞️"
+            },
+            {
+                "pregunta": "¿Qué tipo de piedras se utilizaban en las pirámides? 🌎",
+                "respuesta": "Las pirámides se construyeron con una variedad de piedras, incluyendo granito, basalto y caliza. 🌍"
+            },
+            {
+                "pregunta": "¿Cómo se protegían las pirámides del saqueo? 🔒",
+                "respuesta": "Las pirámides estaban rodeadas por una serie de canales y cárceres para protegerlas del saqueo y la erosión. 🚪"
+            },
+            {
+                "pregunta": "¿Qué era el significado simbólico de las pirámides? ✨",
+                "respuesta": "Las pirámides eran una representación del cielo y la conexión con los dioses en la religión egipcia. 🔮"
+            }
+        ]
+    },
+    "68": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuáles fueron las razones para la construcción de las pirámides egipcias? 🏺",
+                "respuesta": "Las pirámides se construyeron como tumbas para los faraones del antiguo Egipto, con el objetivo de asegurar su vida después de la muerte y garantizar su inmortalidad. 👑"
+            },
+            {
+                "pregunta": "¿Cuál es el propósito de las pirámides en la arquitectura egipcia? 🏗️",
+                "respuesta": "Las pirámides eran estructuras simbólicas que representaban la unión entre el cielo y la tierra, y su diseño se basaba en los principios matemáticos de la geometría egipcia. 📐"
+            }
+        ]
+    },
+    "69": {
+        "tarjetas": [
+            {
+                "pregunta": "Algo salió mal, intenta cambiar tu tema o explicación",
+                "respuesta": "Algo en tu tema o explicación no le gustó a la IA, intenta corregirlo o reintentarlo"
+            }
+        ]
+    },
+    "70": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la filosofía? 📚",
+                "respuesta": "La filosofía es el estudio de las cosas fundamentales, como la realidad, el conocimiento y la existencia. 🌟"
+            },
+            {
+                "pregunta": "¿Quiénes fueron los presocráticos? 🔍",
+                "respuesta": "Los presocráticos fueron filósofos griegos que vivieron en el siglo VI a.C. y desarrollaron la primera gran tradición de pensamiento filosófico occidental."
+            },
+            {
+                "pregunta": "¿Qué es el Socratismo? 🤔",
+                "respuesta": "El Socratismo es una escuela filosófica que se centra en la búsqueda del conocimiento y la virtud a través de la crítica y el diálogo."
+            },
+            {
+                "pregunta": "¿Quién fue Platón? 📖",
+                "respuesta": "Platón fue un filósofo y matemático griego que fundó la Academia, una de las primeras instituciones educativas del mundo antiguo."
+            },
+            {
+                "pregunta": "¿Qué es el dualismo? 🔮",
+                "respuesta": "El dualismo es una teoría filosófica que sostiene que hay dos principios fundamentales en el universo: mente y materia, o espíritu y cuerpo."
+            },
+            {
+                "pregunta": "¿Quiénes fueron los estoicos? 💪",
+                "respuesta": "Los estoicos eran una escuela filosófica griega que se centra en la búsqueda de la virtud y la sabiduría a través de la razón y el control emocional."
+            },
+            {
+                "pregunta": "¿Qué es la ética? 🤝",
+                "respuesta": "La ética es el estudio de las normas y principios que rigen las acciones humanas, y se centra en encontrar la virtud y la moralidad."
+            },
+            {
+                "pregunta": "¿Quién fue Aristóteles? 🔭",
+                "respuesta": "Aristóteles fue un filósofo y científico griego que continuó las enseñanzas de Platón y desarrolló su propia teoría del conocimiento y la realidad."
+            }
+        ]
+    },
+    "71": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué tipo de criaturas viven en los fondos marinos más profundos? 🐠",
+                "respuesta": "Las criaturas que viven en los fondos marinos más profundos son inusualmente adaptadas y extremadamente únicas. 🌊"
+            },
+            {
+                "pregunta": "¿Cuáles son las características de las criaturas más raras del fondo marino? 🔍",
+                "respuesta": "Las criaturas más raras del fondo marino son generalmente bioluminiscentes, tienen una gran variedad de tamaños y formas, y a menudo son peligrosas para los humanos. ⚠️"
+            },
+            {
+                "pregunta": "¿Qué tipo de animales se encuentran en el valle de la oscuridad? 🌌",
+                "respuesta": "El valle de la oscuridad es una región del fondo marino donde hay poca luz, y allí se encuentran criaturas como los anglerpes y las estrellas de mar. ⭐️"
+            },
+            {
+                "pregunta": "¿Cuáles son algunas de las criaturas más grandes del fondo marino? 🌊",
+                "respuesta": "Algunas de las criaturas más grandes del fondo marino incluyen a los cefalópodos, como las octopus y las calamares, así como a los peces rayados. 🐳"
+            },
+            {
+                "pregunta": "¿Qué tipo de animales se alimentan de restos marinos? 🍽️",
+                "respuesta": "Algunas criaturas del fondo marino se alimentan de restos marinos, como las colmenas de langostas y los cangrejos. 👀"
+            },
+            {
+                "pregunta": "¿Qué es la cola de rayo? 🎣",
+                "respuesta": "La cola de rayo es una característica única que tienen algunos peces del fondo marino, como el rayo de la India. 🐟"
+            },
+            {
+                "pregunta": "¿Cuáles son algunas criaturas más peligrosas del fondo marino? 😱",
+                "respuesta": "Algunas criaturas más peligrosas del fondo marino incluyen a los tiburones y las serpientes marinas. ⚠️"
+            },
+            {
+                "pregunta": "¿Qué tipo de animales se encuentran en las fuentes hidrotermal? 🔥",
+                "respuesta": "Las fuentes hidrotermales son áreas del fondo marino donde el agua es caliente y rica en minerales, y allí se encuentran criaturas como los gorgonias y las estrellas de mar. 🌴"
+            }
+        ]
+    },
+    "72": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué animal más raro vive en el fondo del océano? 🐳",
+                "respuesta": "El animal más raro que vive en el fondo del océano es el gigantesco squid, también conocido como calamar gigante. 🌊"
+            },
+            {
+                "pregunta": "¿Cuál es la especie de pez que se encuentra en las profundidades más bajas del mar? 🐟",
+                "respuesta": "La especie de pez que se encuentra en las profundidades más bajas del mar es el anglerfish, también conocido como cardume. 🔵"
+            },
+            {
+                "pregunta": "¿Qué tipo de molusco vive en la parte más oscura del fondo del océano? 🐚",
+                "respuesta": "El tipo de molusco que vive en la parte más oscura del fondo del océano es el gigantesco caracol, también conocido como caracol gigante. 🌊"
+            },
+            {
+                "pregunta": "¿Qué animal marino es capaz de sobrevivir sin luz? 🔦",
+                "respuesta": "El animal marino que es capaz de sobrevivir sin luz es el lula, un tipo de pescado que vive en las profundidades más oscuras del océano. 🌟"
+            }
+        ]
+    },
+    "73": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es un formato JSON? 📊",
+                "respuesta": "Un formato JSON es una forma estándar de codificar y compartir datos en formato texto, comúnmente utilizado para intercambiar datos entre aplicaciones y servidores. 🌐"
+            }
+        ]
+    },
+    "74": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es un 'dd'? 🤔",
+                "respuesta": "Un 'dd' se refiere a una representación gráfica que muestra la relación entre dos conceptos. 🔗"
+            }
+        ]
+    },
+    "75": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué era un dinosaurio? 🦖",
+                "respuesta": "Un dinosaurio era un animal extinto que vivió durante el período Mesozoico. 💚"
+            },
+            {
+                "pregunta": "¿Cómo se alimentaban los dinosaurios? 🍔",
+                "respuesta": "La mayoría de los dinosaurios eran herbívoros, lo que significa que se alimentaban de plantas y frutas. 🌱"
+            },
+            {
+                "pregunta": "¿Cuál era el tamaño más grande de un dinosaurio? 🤯",
+                "respuesta": "El sauropodio Argentinosaurus era el dinosaurio más grande conocido, que podía alcanzar hasta 30 metros de longitud. 💪"
+            }
+        ]
+    },
+    "76": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es el álgebra? 📝",
+                "respuesta": "El álgebra es la rama de las matemáticas que estudia los objetos y las relaciones entre ellos utilizando símbolos, equaciones y fórmulas. 💡"
+            }
+        ]
+    },
+    "83": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuál es la temperatura promedio del Océano Pacífico? 🌊",
+                "respuesta": "La temperatura promedio en el Océano Pacífico varía entre 17°C y 28°C. 📈"
+            },
+            {
+                "pregunta": "¿Cuáles son los dos oceanos más grandes del planeta? 🌐",
+                "respuesta": "Los dos oceanos más grandes son el Océano Pacífico y el Océano Atlántico. 🚣‍♀️"
+            },
+            {
+                "pregunta": "¿Qué porcentaje de la superficie terrestre cubren los océanos? 🌎",
+                "respuesta": "Los océanos cubren aproximadamente un 71% de la superficie terrestre. 📊"
+            }
+        ]
+    },
+    "84": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Qué es la programación? 📚",
+                "respuesta": "La programación es el proceso de diseñar, escribir, probar y mantener el código del software. 🖥️"
+            }
+        ]
+    },
+    "85": {
+        "tarjetas": [
+            {
+                "pregunta": "¿Cuál es la temperatura promedio de los océanos? 🌊",
+                "respuesta": "La temperatura promedio de los océanos es de aproximadamente 19°C. ❄️"
             }
         ]
     }

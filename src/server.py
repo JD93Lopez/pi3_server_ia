@@ -48,6 +48,6 @@ def delete_cards_by_id():
 
 if __name__ == '__main__':
     # Cambiar la IP y el puerto
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5001, debug=True)
     # print("Server running on http://127.0.0.1:5000/")
     # serve(app, host='127.0.0.1', port=5000, channel_timeout=120, cleanup_interval=120)
