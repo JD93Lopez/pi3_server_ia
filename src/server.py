@@ -1,7 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 from controller import generate_cards_controller, get_cards_from_map, delete_cards_from_map
-from waitress import serve
 
 app = Flask(__name__)
 
